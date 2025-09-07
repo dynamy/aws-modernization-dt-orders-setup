@@ -184,7 +184,6 @@ pushDeploymentEvent() {
                         "release Notes" : "test release notes info"
       }
         }
-  }
 EOF
 )
   echo "Push Event POST_DATA"
